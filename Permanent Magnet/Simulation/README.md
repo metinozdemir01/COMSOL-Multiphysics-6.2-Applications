@@ -1,1 +1,1 @@
-PDF File can be used to guide the design 
+PDF File can be used as guide manual
