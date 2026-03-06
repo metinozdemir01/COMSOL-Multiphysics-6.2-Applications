@@ -1,0 +1,4 @@
+- 3D rmm axia flux basic prototype v1 model is a demonstration of a rotating rotor and 2 magnets. Magnetic flux conservation is used in the rotor domain, and non-conducting magnet for magnets. There is an soft iron block near the rotor to observe the direction of B-field in air and a core.
+- 3D rmm axial flux basic prototype v2 model is a demonstration of a rotating  magnet and a moving coil. Coil is induced with voltage. Movement of the coil is designed with moving mesh. Eddy currents can be demonstrated by moving the coil. 
+- 3D rmm axial flux basic prototype v3 model is the improved model of v2. There are a rotor and 2 magnets rotating. Magnetic flux conservation is used in the rotor domain, and non-conducting magnet for magnets. 
+- 3D Moving Mesh basic prototype v1 model is a demonstration of moving mesh property for an axial flux machine. In this model basically there is a rotating part and a moving part separetely. 

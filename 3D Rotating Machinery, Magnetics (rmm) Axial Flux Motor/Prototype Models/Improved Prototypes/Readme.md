@@ -1,0 +1,2 @@
+- 3D rmm axial flux improved prototype v1 model is more complex than basic models. It has a rotating rotor, magnets and an air domain. It has also a moving stator. In moving mesh extra features are used. The details are in the documentation.
+- 3D rmm axial flux improved prototype v2 model is a model where coil physics applied and solved as the extra feature of v1. For different domains different meshes are applied, and solver settings are changed to solve the model in shorter time. The coil is modeled as a cylindrical disk formed by the union of two symmetric half-disks.
